@@ -19,7 +19,7 @@
     <a href="https://zelene.org">Website</a>
     <a href="https://x.com/zelene_official">X</a>
     <a href="https://t.me/zeleneofficial">Telegram</a>
-    <a href="https://www.youtube.com/@zeleneofficial">YouTube</a>
+    <a href="https://www.youtube.com/@zelene-official">YouTube</a>
   </p>
 </div>
 
