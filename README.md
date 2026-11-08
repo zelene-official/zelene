@@ -12,7 +12,7 @@
 
   <h1>Zelene</h1>
 
-  <p><strong>CREATE  CONNECT  EARN</strong></p>
+  <p><strong>CREATE | CONNECT | EARN</strong></p>
   <p><strong>Building real utility for creators and communities.</strong></p>
 
   <p>
