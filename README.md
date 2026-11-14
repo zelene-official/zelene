@@ -70,5 +70,5 @@ Zelene is at an **early development stage**. This GitHub profile will serve as a
 For official updates, follow our community channels or visit **[zelene.org](https://zelene.org)**.
 
 <div align="center">
-  <sub>Designed for creators. Driven by community. Built with purpose.</sub>
+  <sub>Designed for creators | Driven by community | Built with purpose.</sub>
 </div>
